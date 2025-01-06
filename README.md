@@ -1,4 +1,4 @@
-# DiscordoGram
+# discordogram
 
 Неофициальный клиент Telegram с интерфейсом в стиле Discord.
 
